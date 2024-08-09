@@ -1,0 +1,31 @@
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h4 {
+    color: green;
+    padding-left: 4%;
+    font-size: 20px;
+}
+
+.logo ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.logo ul li {
+    margin-right: 30px;
+}
+
+.logo ul li button {
+    color: white;
+    border: none;
+    background-color: #34c238;
+    padding: 7px;
+    border-radius: 2px;
+    ;
+}
